@@ -2,3 +2,10 @@ footer{
     background-color: black;
     color: white;
 }
+body{
+    margin: 0;
+    padding: 0;
+}
+footer{
+    margin-bottom: 0;
+}
